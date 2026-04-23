@@ -42,8 +42,5 @@ Demonstrar habilidades em:
 * Geração de insights estratégicos
 * Construção de dashboards
 
----
+    ---
 
-## 👨‍💻 Autor
-
-Guilherme Humberto

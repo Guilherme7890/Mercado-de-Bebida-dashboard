@@ -1,4 +1,4 @@
-# 📊 Análise de Vendas - Adega (Projeto de Portfólio)
+# 📊 Análise de Vendas - Adega
 
 ## 📌 Sobre o Projeto
 
